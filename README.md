@@ -1,6 +1,7 @@
 #  PrackBot — вызовы на КВ в Discord
 
 Бот повторяет флоу из примера: **тикет → обработка → карточка с аватаром и ником → публикация в канал → отклики в ветке**.
+<img width="824" height="328" alt="image" src="https://github.com/user-attachments/assets/8b7bc262-ce94-42ed-8bb6-e0fb5395450f" />
 
 ```
 /panel  →  кнопка «Создать вызов»
@@ -9,6 +10,9 @@
         →  PNG-карточка в канале вызовов + ветка
         →  «Принять вызов» → модалка (уровень, запись) → отклик в ветке + ЛС автору
 ```
+<img width="520" height="726" alt="image" src="https://github.com/user-attachments/assets/6f7b21d2-1f5c-4598-aea5-5a5d41a5d8e7" />
+
+
 
 Пример готовой карточки:
 
