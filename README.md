@@ -18,7 +18,8 @@
 
 ![Пример карточки вызова](preview_open.png)
 
-Закрытый вызов выглядит так: `preview_closed.png`.
+Закрытый вызов выглядит так: <img width="733" height="402" alt="image" src="https://github.com/user-attachments/assets/f4d1ab3e-c9bc-407f-956c-9e8502ae69c1" />
+
 
 ## Что умеет
 
